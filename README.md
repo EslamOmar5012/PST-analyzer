@@ -362,22 +362,25 @@ PstMerger/
 <tr>
 <td align="center" width="50%">
 
-### 🧑‍💻 Mithun
+### 👑 Eslam Omar
 **Creator & Lead Developer**  
-DataGuardNXT  
+Xeno5012  
 
-Core architecture, Outlook Interop integration,  
-async UI, registry patching, logging system
+Built the full project from the ground up —  
+architecture, Outlook Interop integration, async UI,  
+registry patching, MD5 deduplication engine,  
+logging system, and everything in between
 
 </td>
 <td align="center" width="50%">
 
-### 👨‍💻 Eslam Omar
-**Contributor**  
+### 💡 Mithun
+**Technology Inspiration**
 
-Added the **Remove Duplicates** feature —  
-MD5 fingerprinting engine, pre-seed logic,  
-folder-agnostic hash keys, dedup reporting
+Early concepts and technical ideas that  
+inspired the foundation of this project.  
+Credited with respect for the influence  
+on the overall approach and design.
 
 </td>
 </tr>
@@ -404,7 +407,7 @@ Found a bug? Please [open an issue](https://github.com/mithundgnxt-stack/PstMerg
 ```
 MIT License
 
-Copyright (c) 2026 DataGuardNXT
+Copyright (c) 2026 Eslam Omar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -417,11 +420,13 @@ The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 ```
 
+---
+
 <div align="center">
 
-**© 2026 Eslam Omar · All Rights Reserved**
+**© 2026 DataGuardNXT · All Rights Reserved**
 
-*Built for IT administrators who needed it done right.*
+*Created by **Eslam Omar** · Built for IT administrators who needed it done right.*
 
 ⭐ If this tool saved you time, give the repo a star!
 
