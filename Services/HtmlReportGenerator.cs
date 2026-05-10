@@ -370,7 +370,7 @@ namespace PstAnalyzer.Services
             // ── Header ────────────────────────────────────────────────────────
             sb.AppendLine($@"
 <div class=""header"">
-  <div class=""header-tag"">DataGuardNXT &mdash; Enterprise PST Analytics</div>
+  <div class=""header-tag"">Eslam Omar &mdash; PST Analytics</div>
   <h1>PST Merge Analysis Report</h1>
   <div class=""header-meta"">Generated: {report.ReportGeneratedAt:yyyy-MM-dd HH:mm:ss} &nbsp;|&nbsp; Source Files: {report.TotalSourceFiles}</div>
 </div>
@@ -601,7 +601,7 @@ namespace PstAnalyzer.Services
 
             sb.AppendLine($@"
 <div class=""footer"">
-  <span>PST Analyzer &mdash; DataGuardNXT 2026</span>
+  <span>PST Analyzer &mdash; Eslam Omar 2026</span>
   <span>Report ID: {Guid.NewGuid().ToString("N").Substring(0, 12).ToUpper()}</span>
 </div>
 
